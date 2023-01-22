@@ -1,7 +1,7 @@
 # turktelekom-port-sorgu
 ### goknet.com.tr apisi uzerinden Turk Telekom altyapisi icin bos port sorgulama
 
-Oncelikle https://goknet.com.tr/internet-altyapi-sorgulama/ urlsine adresini girdikten sonra en ustte cikan bbk numarasini koda yapistirin.
+Oncelikle https://goknet.com.tr/internet-altyapi-sorgulama/ urlsinde adresinizi girdikten sonra en ustte cikan bbk numarasini koda yapistirin.
 
 Ardindan bildirim almak istiyorsaniz ozel olarak olusturacaginiz gmail hesabinin bilgilerini verilen yerlere girdiginizde program surekli olarak calismaya baslayacaktir.
 
